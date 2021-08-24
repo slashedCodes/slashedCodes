@@ -1,5 +1,7 @@
 ### Hello there!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 Thank's for passing by!
 
 Im *Andrew*. And I make ~~dumb~~ ***interesting*** stuff.
@@ -12,19 +14,20 @@ So if theres something i didnt wanna put in there, I probably didnt.
 
 ### Info and Other stuff
 
-  <span style="color:blue">OS(es)</span>. >  Arch Linux, Windows 10
+  🟥OS(es)🟥 >  Arch Linux, Windows 10
   
-  <span style="color:magenta">WM</span>. > XMonad
+  🟧WM🟧 > XMonad
   
-  <span style="color:red">RAM</span>. > 4GB
+  🟨RAM🟨 > 4GB
   
-  <span style="color:cyan">CPU</span>. > Intel Core i5 4th Gen
+  🟩CPU🟩 > Intel Core i5 4th Gen
   
-  <span style="color:purple">GPU</span>. > **I dont even know**
+  🟦GPU🟦 > **I dont even know**
   
-  <span style="color:yellow">Pronouns</span>. > He/Him
+  🟪Pronouns🟪 > He/Him
   
-  <span style="color:green">Nickname(s)</span>. > SpicyCoder, Alexfeed1990, Slashed
+  ⬛Nickname(s)⬛ > SpicyCoder, Alexfeed1990, Slashed
   
 ### Stats
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
