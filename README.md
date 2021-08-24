@@ -1,3 +1,12 @@
+### Stats
+
+<a href="https://rickroll.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://therickroll.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=gruvbox" />
+</a>
+
 ### Hello there!
 
 Thank's for passing by!
@@ -13,13 +22,6 @@ I break and build stuff.
  - and I love Linux.
  - Love to Github and all of my friends for helping me through this journey. 
   
-### Stats
 
-<a href="https://rickroll.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true" />
-</a>
-<a href="https://therickroll.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact" />
-</a>
 
 
