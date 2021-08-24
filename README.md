@@ -4,26 +4,16 @@ Thank's for passing by!
 
 Im *Andrew*. And I make ~~dumb~~ ***interesting*** stuff.
 
+I break and build stuff.
+
+## Personal stuff!
+
+ - I like programming in general.
+ - I'm working on something cool, 
+ - and I love Linux.
+ - Love to Github and all of my friends for helping me through this journey. 
   
 ### Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### Info and Other stuff
-
-  🟥OS(es)🟥 >  Arch Linux, Windows 10
-  
-  🟧WM🟧 > XMonad
-  
-  🟨RAM🟨 > 4GB
-  
-  🟩CPU🟩 > Intel Core i5 4th Gen
-  
-  🟦GPU🟦 > **I dont even know**
-  
-  🟪Pronouns🟪 > He/Him
-  
-  ⬛Nickname(s)⬛ > SpicyCoder, Alexfeed1990, Slashed
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&theme=radical&show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfeed1990)](https://github.com/anuraghazra/github-readme-stats)
