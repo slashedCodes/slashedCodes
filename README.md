@@ -1,16 +1,8 @@
 ### Hello there!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 Thank's for passing by!
 
 Im *Andrew*. And I make ~~dumb~~ ***interesting*** stuff.
-
-My **Repo's** are open, you can go check them out.
-
-Some are utilities, some are just useless. I only make repo's of my interesting stuff that I make.
-
-So if theres something i didnt wanna put in there, I probably didnt.
 
 ### Info and Other stuff
 
@@ -27,6 +19,7 @@ So if theres something i didnt wanna put in there, I probably didnt.
   🟪Pronouns🟪 > He/Him
   
   ⬛Nickname(s)⬛ > SpicyCoder, Alexfeed1990, Slashed
+  
   
 ### Stats
 
