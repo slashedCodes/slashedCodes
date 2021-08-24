@@ -16,11 +16,10 @@ I break and build stuff.
 ### Stats
 
 <a href="https://rickroll.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexfeed1990&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true" />
 </a>
 <a href="https://therickroll.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
-[![Top Langs]()
 
