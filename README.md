@@ -19,7 +19,7 @@ I break and build stuff.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true" />
 </a>
 <a href="https://therickroll.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compacthttps://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 
