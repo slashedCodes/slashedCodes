@@ -9,6 +9,9 @@ Im *Andrew*. And I make ~~dumb~~ ***interesting*** stuff.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Info and Other stuff
 
   🟥OS(es)🟥 >  Arch Linux, Windows 10
