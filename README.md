@@ -15,10 +15,12 @@ I break and build stuff.
   
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://rickroll.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexfeed1990&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexfeed1990&repo=convoychat" />
+<a href="https://therickroll.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8https://github.com/anuraghazra/github-readme-stats" />
 </a>
+
+[![Top Langs]()
 
