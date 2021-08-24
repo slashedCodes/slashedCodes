@@ -15,8 +15,10 @@ I break and build stuff.
   
 ### Stats
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfeed1990)](https://github.com/anuraghazra/github-readme-stats)
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&theme=radical&show_owner=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexfeed1990&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexfeed1990&repo=convoychat" />
+</a>
 
