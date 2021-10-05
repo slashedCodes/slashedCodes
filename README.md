@@ -18,7 +18,7 @@ I break and build stuff.
 ## Personal stuff! 💻
 
  - I like programming in general. 📗
- - I'm working on something cool, 😎
+ - ~~I'm working on something cool, 😎~~ [here it is](https://github.com/alexfeed1990/dotys)
  - and I love Linux. 🐧
  - Love to Github and all of my friends for helping me through this journey. ❤️
   
