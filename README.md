@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexfeed1990&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://therickroll.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfeed1990&langs_count=8&layout=compact&theme=gruvbox" />
 </a>
 
 ### Hello there! 👋
